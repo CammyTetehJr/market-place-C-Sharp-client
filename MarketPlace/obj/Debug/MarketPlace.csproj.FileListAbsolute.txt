@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MarketPlace\MarketPlace\obj\Debug\MarketPlace.MarketPlaceForm.resources
+C:\Users\User\source\repos\MarketPlace\MarketPlace\obj\Debug\MarketPlace.Properties.Resources.resources
+C:\Users\User\source\repos\MarketPlace\MarketPlace\obj\Debug\MarketPlace.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MarketPlace\MarketPlace\obj\Debug\MarketPlace.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MarketPlace\MarketPlace\bin\Debug\MarketPlace.exe.config
+C:\Users\User\source\repos\MarketPlace\MarketPlace\bin\Debug\MarketPlace.exe
+C:\Users\User\source\repos\MarketPlace\MarketPlace\bin\Debug\MarketPlace.pdb
+C:\Users\User\source\repos\MarketPlace\MarketPlace\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\MarketPlace\MarketPlace\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\MarketPlace\MarketPlace\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\MarketPlace\MarketPlace\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\source\repos\MarketPlace\MarketPlace\obj\Debug\MarketPlace.csproj.CopyComplete
+C:\Users\User\source\repos\MarketPlace\MarketPlace\obj\Debug\MarketPlace.exe
+C:\Users\User\source\repos\MarketPlace\MarketPlace\obj\Debug\MarketPlace.pdb
+C:\Users\User\source\repos\MarketPlace\MarketPlace\obj\Debug\MarketPlace.csprojAssemblyReference.cache
